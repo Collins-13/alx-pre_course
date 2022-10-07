@@ -1,2 +1,1 @@
-My second commit
-Working on git hub
+My second readme updated
